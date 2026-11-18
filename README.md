@@ -4,7 +4,7 @@ Hi! My Name Is Bhekumusa Sibandze.
 I am an aspiring web developer skilled in HTML and CSS. I enjoy building clean, responsive webpages and am currently looking for an internship where I can grow my front-end skills.
 
 Live Demo
-View my live portfolio here:
+View my live portfolio here: https://sibandzebhekumusa.github.io/portfolio-webpage.github.io/
 
 Built With
 HTML– For page structure and semantic sections
